@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vycch\\Downloads\\Netcore3.1\\Netcore3.1\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vycch\\Downloads\\Netcore3.1\\Netcore3.1\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vycch\\Downloads\\Netcore3.1\\Netcore3.1\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\vycch\\Downloads\\Netcore3.1\\Netcore3.1\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\vycch\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vycch\\Downloads\\Netcore3.1\\Netcore3.1\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vycch\\AppData\\Roaming\\NuGet\\NuGet.Config"
