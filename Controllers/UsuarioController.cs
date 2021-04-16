@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using Biblioteca.Models;
 using Microsoft.AspNetCore.Mvc;
 
@@ -11,12 +12,22 @@ namespace Biblioteca.Controllers
             return View();
         }
 
+        [HttpPost]
+        public IActionResult Cadastro(Usuario u) {
+            UsuarioService usuarioService = new UsuarioService();
+            usuarioService.Inserir(u);
+            return RedirectToAction("Listagem");
+        }
+
         public IActionResult Edicao() {
             return View();
         }
 
         public IActionResult Listagem() {
-            return View();
+            ICollection<Usuario> usuarios;
+            UsuarioService usuarioService = new UsuarioService();
+            usuarios = usuarioService.Listar();
+            return View(usuarios);
         }
 
 

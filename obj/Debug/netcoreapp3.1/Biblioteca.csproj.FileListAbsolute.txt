@@ -189,5 +189,5 @@ C:\Users\vycch\OneDrive\Documentos\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1
 C:\Users\vycch\OneDrive\Documentos\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
 C:\Users\vycch\OneDrive\Documentos\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
 C:\Users\vycch\OneDrive\Documentos\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Edicao.cshtml.g.cs
-C:\Users\vycch\OneDrive\Documentos\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Exclusão.cshtml.g.cs
 C:\Users\vycch\OneDrive\Documentos\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Listagem.cshtml.g.cs
+C:\Users\vycch\OneDrive\Documentos\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Remover.cshtml.g.cs

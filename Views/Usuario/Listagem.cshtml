@@ -1,0 +1,58 @@
+@model List<Usuario>
+@{
+    ViewData["Title"] = "Listagem de Usuário";
+}
+
+@section Scripts {
+<script>
+    $(document).ready(function () {
+        $('#tabelaPagin').DataTable({
+            "language": {
+                "lengthMenu": "Mostrando _MENU_ registros por página",
+                "zeroRecords": "Nenhum registro encontrado",
+                "info": "Mostrando página _PAGE_ de _PAGES_",
+                "infoEmpty": "Nenhum registro encontrado",
+                "infoFiltered": "(filtrado de _MAX_ registros no total)"
+            }
+        });
+    });
+</script>
+
+<script type="text/javascript" src="https://cdn.datatables.net/1.10.24/js/dataTables.bootstrap4.min.js"></script>
+
+}
+
+@section Styles{
+<link rel="Stylesheet" href="https://cdn.datatables.net/1.10.24/css/dataTables.bootstrap4.min.css" />
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <table class="table table-striped" id="tabelaPagin">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Nome</th>
+                    <th>Login</th>
+                    <th>Senha</th>
+                    <th></th>
+                    <th></th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Usuario u in Model)
+                {
+                    <tr>
+                        <td>@u.Id</td>
+                        <td>@u.Nome</td>
+                        <td>@u.Login</td>
+                        <td>@u.Senha/td>
+                        <td><a href="/Usuario/Edicao/@u.Id">Editar</a></td>
+                        <td><a href="/Usuario/Remover/@u.Id">Remover</a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

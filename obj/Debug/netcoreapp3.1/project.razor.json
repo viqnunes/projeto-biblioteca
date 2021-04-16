@@ -14402,11 +14402,6 @@
   "RootNamespace": "Biblioteca",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Views\\Cadastro\\Edicao.cshtml",
-      "TargetPath": "Views\\Cadastro\\Edicao.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -14414,6 +14409,11 @@
     {
       "FilePath": "c:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Views\\Emprestimo\\Edicao.cshtml",
       "TargetPath": "Views\\Emprestimo\\Edicao.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Views\\Usuario\\Listagem.cshtml",
+      "TargetPath": "Views\\Usuario\\Listagem.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14432,11 +14432,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Views\\Cadastro\\Exclusão.cshtml",
-      "TargetPath": "Views\\Cadastro\\Exclusão.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
@@ -14449,6 +14444,11 @@
     {
       "FilePath": "c:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Views\\Usuario\\Remover.cshtml",
+      "TargetPath": "Views\\Usuario\\Remover.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14472,13 +14472,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Views\\Cadastro\\Cadastro.cshtml",
-      "TargetPath": "Views\\Cadastro\\Cadastro.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Views\\Cadastro\\Listagem.cshtml",
-      "TargetPath": "Views\\Cadastro\\Listagem.cshtml",
+      "FilePath": "c:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Views\\Usuario\\Cadastro.cshtml",
+      "TargetPath": "Views\\Usuario\\Cadastro.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14489,6 +14484,11 @@
     {
       "FilePath": "c:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Views\\Livro\\_FormCadastro.cshtml",
       "TargetPath": "Views\\Livro\\_FormCadastro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Views\\Usuario\\Edicao.cshtml",
+      "TargetPath": "Views\\Usuario\\Edicao.cshtml",
       "FileKind": "mvc"
     },
     {
