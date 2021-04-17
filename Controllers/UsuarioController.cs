@@ -21,6 +21,7 @@ namespace Biblioteca.Controllers
 
         [HttpGet]
         public IActionResult Edicao(int Id) {
+            Autenticacao.CheckLogin(this);
             UsuarioService usuarioService = new UsuarioService();
             Usuario usu = new Usuario();
             usu = usuarioService.ObterPorId(Id);
@@ -41,6 +42,7 @@ namespace Biblioteca.Controllers
         }
 
         public IActionResult Listagem() {
+            Autenticacao.CheckLogin(this);
             ICollection<Usuario> usuarios;
             UsuarioService usuarioService = new UsuarioService();
             usuarios = usuarioService.Listar();
@@ -48,6 +50,7 @@ namespace Biblioteca.Controllers
         }
 
         public IActionResult Remover(int Id) {
+            Autenticacao.CheckLogin(this);
             Usuario usu = new Usuario();
             UsuarioService usuarioService = new UsuarioService();
             usu = usuarioService.ObterPorId(Id);
