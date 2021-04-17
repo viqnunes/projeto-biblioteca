@@ -33,7 +33,7 @@ namespace Biblioteca.Controllers
         [HttpPost]
         public IActionResult Login(string login, string senha)
         {
-            if(login != "admin" || senha != "123")
+            if(login != "admin" || senha != "1234")
             {
                 ViewData["Erro"] = "Senha inválida";
                 return View();

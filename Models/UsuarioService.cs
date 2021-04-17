@@ -56,5 +56,7 @@ namespace Biblioteca.Models
                 return bc.Usuario.Find(Id);
             }
         }
+
     }
+
 }
