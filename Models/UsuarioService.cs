@@ -9,7 +9,7 @@ namespace Biblioteca.Models
         public void Inserir(Usuario u) {
             using(BibliotecaContext bc = new BibliotecaContext()) 
             {
-                bc.Usuarios.Add(u);
+                bc.Usuario.Add(u);
                 bc.SaveChanges();
             }
         }
@@ -18,7 +18,7 @@ namespace Biblioteca.Models
         {
             using(BibliotecaContext bc = new BibliotecaContext())
             {
-                Usuario usuario = bc.Usuarios.Find(u.Id);
+                Usuario usuario = bc.Usuario.Find(u.Id);
                 usuario.Nome = u.Nome;
                 usuario.Login = u.Login;
                 usuario.Senha = u.Senha;
@@ -33,7 +33,7 @@ namespace Biblioteca.Models
             {
                 IQueryable<Usuario> query;
 
-                query = bc.Usuarios;
+                query = bc.Usuario;
 
                 return query.OrderBy(u => u.Id).ToList();
             }
@@ -44,8 +44,16 @@ namespace Biblioteca.Models
         {
             using(BibliotecaContext bc = new BibliotecaContext())
             {
-                bc.Usuarios.Remove(u);
+                bc.Usuario.Remove(u);
                 bc.SaveChanges();
+            }
+        }
+
+        public Usuario ObterPorId(int Id)
+        {
+            using(BibliotecaContext bc = new BibliotecaContext())
+            {
+                return bc.Usuario.Find(Id);
             }
         }
     }
