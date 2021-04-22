@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Biblioteca.csproj",
+  "FilePath": "c:\\Users\\vycch\\OneDrive\\Área de Trabalho\\estudos dev\\envios do tecnico\\ATV02_UC07\\Netcore3.1\\Biblioteca\\Biblioteca.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14402,98 +14402,98 @@
   "RootNamespace": "Biblioteca",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Views\\Emprestimo\\Edicao.cshtml",
-      "TargetPath": "Views\\Emprestimo\\Edicao.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Views\\Usuario\\Listagem.cshtml",
-      "TargetPath": "Views\\Usuario\\Listagem.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Views\\Livro\\Edicao.cshtml",
+      "FilePath": "c:\\Users\\vycch\\OneDrive\\Área de Trabalho\\estudos dev\\envios do tecnico\\ATV02_UC07\\Netcore3.1\\Biblioteca\\Views\\Livro\\Edicao.cshtml",
       "TargetPath": "Views\\Livro\\Edicao.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Views\\Home\\Login.cshtml",
-      "TargetPath": "Views\\Home\\Login.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Views\\Shared\\_CookieConsentPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_CookieConsentPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Views\\Usuario\\Remover.cshtml",
-      "TargetPath": "Views\\Usuario\\Remover.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Views\\Emprestimo\\Cadastro.cshtml",
-      "TargetPath": "Views\\Emprestimo\\Cadastro.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Views\\Livro\\Listagem.cshtml",
-      "TargetPath": "Views\\Livro\\Listagem.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Views\\Livro\\Cadastro.cshtml",
-      "TargetPath": "Views\\Livro\\Cadastro.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Views\\Usuario\\Cadastro.cshtml",
-      "TargetPath": "Views\\Usuario\\Cadastro.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Views\\Emprestimo\\Listagem.cshtml",
-      "TargetPath": "Views\\Emprestimo\\Listagem.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Views\\Livro\\_FormCadastro.cshtml",
+      "FilePath": "c:\\Users\\vycch\\OneDrive\\Área de Trabalho\\estudos dev\\envios do tecnico\\ATV02_UC07\\Netcore3.1\\Biblioteca\\Views\\Livro\\_FormCadastro.cshtml",
       "TargetPath": "Views\\Livro\\_FormCadastro.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Views\\Usuario\\Edicao.cshtml",
+      "FilePath": "c:\\Users\\vycch\\OneDrive\\Área de Trabalho\\estudos dev\\envios do tecnico\\ATV02_UC07\\Netcore3.1\\Biblioteca\\Views\\Livro\\Cadastro.cshtml",
+      "TargetPath": "Views\\Livro\\Cadastro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\vycch\\OneDrive\\Área de Trabalho\\estudos dev\\envios do tecnico\\ATV02_UC07\\Netcore3.1\\Biblioteca\\Views\\Livro\\Listagem.cshtml",
+      "TargetPath": "Views\\Livro\\Listagem.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\vycch\\OneDrive\\Área de Trabalho\\estudos dev\\envios do tecnico\\ATV02_UC07\\Netcore3.1\\Biblioteca\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\vycch\\OneDrive\\Área de Trabalho\\estudos dev\\envios do tecnico\\ATV02_UC07\\Netcore3.1\\Biblioteca\\Views\\Home\\Login.cshtml",
+      "TargetPath": "Views\\Home\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\vycch\\OneDrive\\Área de Trabalho\\estudos dev\\envios do tecnico\\ATV02_UC07\\Netcore3.1\\Biblioteca\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\vycch\\OneDrive\\Área de Trabalho\\estudos dev\\envios do tecnico\\ATV02_UC07\\Netcore3.1\\Biblioteca\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\vycch\\OneDrive\\Área de Trabalho\\estudos dev\\envios do tecnico\\ATV02_UC07\\Netcore3.1\\Biblioteca\\Views\\Emprestimo\\Cadastro.cshtml",
+      "TargetPath": "Views\\Emprestimo\\Cadastro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\vycch\\OneDrive\\Área de Trabalho\\estudos dev\\envios do tecnico\\ATV02_UC07\\Netcore3.1\\Biblioteca\\Views\\Usuario\\Remover.cshtml",
+      "TargetPath": "Views\\Usuario\\Remover.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\vycch\\OneDrive\\Área de Trabalho\\estudos dev\\envios do tecnico\\ATV02_UC07\\Netcore3.1\\Biblioteca\\Views\\Emprestimo\\Edicao.cshtml",
+      "TargetPath": "Views\\Emprestimo\\Edicao.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\vycch\\OneDrive\\Área de Trabalho\\estudos dev\\envios do tecnico\\ATV02_UC07\\Netcore3.1\\Biblioteca\\Views\\Emprestimo\\Listagem.cshtml",
+      "TargetPath": "Views\\Emprestimo\\Listagem.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\vycch\\OneDrive\\Área de Trabalho\\estudos dev\\envios do tecnico\\ATV02_UC07\\Netcore3.1\\Biblioteca\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\vycch\\OneDrive\\Área de Trabalho\\estudos dev\\envios do tecnico\\ATV02_UC07\\Netcore3.1\\Biblioteca\\Views\\Usuario\\Cadastro.cshtml",
+      "TargetPath": "Views\\Usuario\\Cadastro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\vycch\\OneDrive\\Área de Trabalho\\estudos dev\\envios do tecnico\\ATV02_UC07\\Netcore3.1\\Biblioteca\\Views\\Usuario\\Listagem.cshtml",
+      "TargetPath": "Views\\Usuario\\Listagem.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\vycch\\OneDrive\\Área de Trabalho\\estudos dev\\envios do tecnico\\ATV02_UC07\\Netcore3.1\\Biblioteca\\Views\\Shared\\_CookieConsentPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_CookieConsentPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\vycch\\OneDrive\\Área de Trabalho\\estudos dev\\envios do tecnico\\ATV02_UC07\\Netcore3.1\\Biblioteca\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\vycch\\OneDrive\\Área de Trabalho\\estudos dev\\envios do tecnico\\ATV02_UC07\\Netcore3.1\\Biblioteca\\Views\\Usuario\\Edicao.cshtml",
       "TargetPath": "Views\\Usuario\\Edicao.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\vycch\\OneDrive\\Documentos\\Netcore3.1\\Biblioteca\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\Users\\vycch\\OneDrive\\Área de Trabalho\\estudos dev\\envios do tecnico\\ATV02_UC07\\Netcore3.1\\Biblioteca\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     }
   ],
